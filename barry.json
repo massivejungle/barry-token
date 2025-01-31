@@ -1,0 +1,9 @@
+{
+        name: "Barry Token",
+        symbol: "BARRY",
+        uri: "https://static.wikia.nocookie.net/extras/images/e/e8/Barry.jpg",
+        seller_fee_basis_points: 0,
+        creators: None,
+        collection: None,
+        uses: None,
+}
